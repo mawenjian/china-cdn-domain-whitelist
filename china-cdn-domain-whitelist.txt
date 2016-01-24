@@ -152,3 +152,11 @@ aicdn.com
 #360网站卫士
 dnspao.com
 360wzb.cn
+
+#同兴万点CDN
+cdngc.net
+cdnetworks.net
+gccdn.net
+
+#CDN联盟
+cdnudns.com
