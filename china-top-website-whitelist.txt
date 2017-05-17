@@ -662,6 +662,9 @@
 .lehecai.com
 .28.com
 .bilibili.tv
+.bilibili.com
+.hdslb.com
+.hdslb.net
 .huaban.com
 .szhome.com
 .miercn.com
