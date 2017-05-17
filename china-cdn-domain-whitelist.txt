@@ -160,3 +160,7 @@ gccdn.net
 
 #CDN联盟
 cdnudns.com
+
+#未知
+hdslb.com
+hdslb.net
