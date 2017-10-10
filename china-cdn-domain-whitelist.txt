@@ -56,6 +56,8 @@ lxdns.net
 chinanetcenter.com
 netcenter.com.cn
 wangsu.com
+ourwebat.com
+ourwebcdn.com
 
 #快网
 fastweb.com.cn
@@ -125,6 +127,7 @@ alikunlun.com
 qcloud.com
 myqcloud.com
 tcdn.qq.com
+cdntip.com
 
 #百度云CDN
 bdydns.net
@@ -160,6 +163,9 @@ gccdn.net
 
 #CDN联盟
 cdnudns.com
+
+#白山云
+qingcdn.com
 
 #未知
 hdslb.com
